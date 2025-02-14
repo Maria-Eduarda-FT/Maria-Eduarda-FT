@@ -1,7 +1,7 @@
 ## 
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Maria Eduarda
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora de Software`**
 
 Me chamo Maria Eduarda, tenho 20 anos e sou natural de Goiânia, Goiás. Atualmente, estou no 4º período do curso de Sistemas de Informação na UFU. Tenho paixão por desafios de lógica, jogos e leituras que contribuam para meu desenvolvimento pessoal e profissional.
 
