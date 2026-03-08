@@ -10,22 +10,6 @@ Me chamo Maria Eduarda, tenho 20 anos e sou natural de Goiânia, Goiás (sim, a 
 
 <img 
     align="left" 
-    alt="C"
-    title="C" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="C.png" 
-/>
-<img 
-    align="left" 
-    alt="C++"
-    title="C++" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="C++.png" 
-/>
-<img 
-    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -50,14 +34,6 @@ Me chamo Maria Eduarda, tenho 20 anos e sou natural de Goiânia, Goiás (sim, a 
 /> 
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
@@ -71,6 +47,22 @@ Me chamo Maria Eduarda, tenho 20 anos e sou natural de Goiânia, Goiás (sim, a 
     width="35px" 
     style="padding-right: 10px;" 
     src= "swift.png"
+/>
+<img 
+    align="left" 
+    alt="C"
+    title="C" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="C.png" 
+/>
+<img 
+    align="left" 
+    alt="C++"
+    title="C++" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="C++.png" 
 />
 <img 
     align="left" 
@@ -88,7 +80,14 @@ Me chamo Maria Eduarda, tenho 20 anos e sou natural de Goiânia, Goiás (sim, a 
     style="padding-right: 10px;" 
     src= "SQL.png"
 />
-
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 <br/>
 <br/>
 
