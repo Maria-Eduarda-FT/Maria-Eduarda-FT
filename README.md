@@ -99,6 +99,6 @@ Me chamo Maria Eduarda, tenho 20 anos e sou natural de Goiânia, Goiás (sim, a 
   align="left" 
   alt="GitHub Stats" 
   height="200" 
-  src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=Maria-Eduarda-FT&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Maria-Eduarda-FT&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
 </p>
