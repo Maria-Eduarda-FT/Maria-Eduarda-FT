@@ -72,6 +72,14 @@ Me chamo Maria Eduarda, tenho 20 anos e sou natural de Goiânia, Goiás (sim, a 
     style="padding-right: 10px;" 
     src= "java.png"
 />
+<img
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="20px" 
+    style="padding-right: 10px;" 
+    src= "https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"
+/>
 <img 
     align="left" 
     alt="SQL" 
