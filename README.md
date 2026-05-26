@@ -2,7 +2,7 @@
 
 **`Desenvolvedora de Software`**
 
-Me chamo Maria Eduarda, tenho 20 anos e sou natural de Goiânia, Goiás (sim, a cidade do sertanejo). Atualmente, estou no 6º período do curso de Sistemas de Informação na UFU. Tenho paixão por desafios de lógica, jogos e computação como um todo. Agora, acredito que a solução de problemas irá me acompanhar em todos os campos que meu pensamento tocar. A sensação de conseguir evoluir e desenvolver desafios que eram impossíveis para uma versão anterior de mim mesma é uma de minhas maiores motivações.
+Me chamo Maria Eduarda, tenho 20 anos e sou natural de Goiânia, Goiás (sim, a cidade do sertanejo). Atualmente, estou no 7º período do curso de Sistemas de Informação na UFU. Tenho paixão por desafios de lógica, jogos e computação como um todo. Agora, acredito que a solução de problemas irá me acompanhar em todos os campos que meu pensamento tocar. A sensação de conseguir evoluir e desenvolver desafios que eram impossíveis para uma versão anterior de mim mesma é uma de minhas maiores motivações.
 
 ---
 
