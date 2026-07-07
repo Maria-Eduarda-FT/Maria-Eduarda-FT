@@ -10,6 +10,22 @@ Me chamo Maria Eduarda, tenho 20 anos e sou natural de Goiânia, Goiás (sim, a 
 
 <img 
     align="left" 
+    alt="C"
+    title="C" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="C.png" 
+/>
+<img 
+    align="left" 
+    alt="C++"
+    title="C++" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="C++.png" 
+/>
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -42,30 +58,6 @@ Me chamo Maria Eduarda, tenho 20 anos e sou natural de Goiânia, Goiás (sim, a 
 />
 <img 
     align="left" 
-    alt="Swift" 
-    title="Swift"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src= "swift.png"
-/>
-<img 
-    align="left" 
-    alt="C"
-    title="C" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="C.png" 
-/>
-<img 
-    align="left" 
-    alt="C++"
-    title="C++" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="C++.png" 
-/>
-<img 
-    align="left" 
     alt="Java" 
     title="Java"
     width="20px" 
@@ -79,6 +71,14 @@ Me chamo Maria Eduarda, tenho 20 anos e sou natural de Goiânia, Goiás (sim, a 
     width="30px" 
     style="padding-right: 10px;" 
     src= "https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"
+/>
+<img 
+    align="left" 
+    alt="Swift" 
+    title="Swift"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src= "swift.png"
 />
 <img 
     align="left" 
