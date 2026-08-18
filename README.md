@@ -2,7 +2,7 @@
 
 **`Desenvolvedora de Software`**
 
-Me chamo Maria Eduarda, tenho 22 anos e sou de Goiânia. Atualmente, estou no 8º período do curso de Sistemas de Informação na UFU e tenho paixão por desafios de lógica, jogos e computação como um todo. Agora, acredito que a solução de problemas irá me acompanhar em todos os campos que meu pensamento tocar.
+Me chamo Maria Eduarda, tenho 22 anos e sou de Goiânia. Tenho paixão por desafios de lógica, jogos e computação como um todo. Agora, acredito que a solução de problemas irá me acompanhar em todos os campos que meu pensamento tocar.
 
 ---
 
