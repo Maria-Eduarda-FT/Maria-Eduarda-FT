@@ -1,110 +1,26 @@
-#  Maria Eduarda
+# Maria Eduarda Teixeira
 
-**`Desenvolvedora de Software`**
+Curiosa por natureza, gosto de entender como as coisas funcionam por dentro — de um sistema distribuído a um modelo de machine learning. É essa curiosidade que me trouxe até aqui.
 
-Me chamo Maria Eduarda, tenho 22 anos e sou natural de Goiânia, Goiás (sim, a cidade do sertanejo). Atualmente, estou no 7º período do curso de Sistemas de Informação na UFU. Tenho paixão por desafios de lógica, jogos e computação como um todo. Agora, acredito que a solução de problemas irá me acompanhar em todos os campos que meu pensamento tocar. A sensação de conseguir evoluir e desenvolver desafios que eram impossíveis para uma versão anterior de mim mesma é uma de minhas maiores motivações.
+📍 Goiânia, GO — Brasil
 
 ---
 
-###  Linguagens e Tecnologias
+## O que venho fazendo
 
-<img 
-    align="left" 
-    alt="C"
-    title="C" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="C.png" 
-/>
-<img 
-    align="left" 
-    alt="C++"
-    title="C++" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="C++.png" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/> 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="20px" 
-    style="padding-right: 10px;" 
-    src= "java.png"
-/>
-<img
-    align="left" 
-    alt="Kotlin" 
-    title="Kotlin"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src= "https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"
-/>
-<img 
-    align="left" 
-    alt="Swift" 
-    title="Swift"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src= "swift.png"
-/>
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="45px" 
-    style="padding-right: 10px;" 
-    src= "SQL.png"
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<br/>
-<br/>
+- Cursando Sistemas de Informação na UFU, no 8º período
+- Pesquisa de Iniciação Científica sobre como o sistema operacional afeta a eficiência de modelos de ML aplicados à detecção de malware
+- Projetos em mobile (Android/Kotlin, iOS/Swift), sistemas distribuídos e desenvolvimento web
+- Já passei por hackathons, maratonas de programação e monitorias — ensinar também me ajuda a aprender melhor
 
-### 📊 Estatísticas
-<p>
-  <img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Maria-Eduarda-FT&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
-</p>
+## Com o que trabalho
+
+`Java` `Kotlin` `Python` `JavaScript` `Swift` `C` `HTML/CSS` `Spring Boot` `Docker` `Git`
+
+## Vamos conversar?
+
+[LinkedIn](https://www.linkedin.com/in/mariaeduardaft/) · [E-mail](mailto:mariaeduardaft2704@gmail.com)
+
+---
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Maria-Eduarda-FT&show_icons=true&theme=radical)
