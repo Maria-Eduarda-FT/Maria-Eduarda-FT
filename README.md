@@ -9,9 +9,9 @@ Me chamo Maria Eduarda, tenho 22 anos e sou de Goiânia. Atualmente, estou no 8�
 ## O que venho fazendo
 
 - Cursando Sistemas de Informação na UFU, no 8º período
-- Pesquisa de Iniciação Científica sobre como o sistema operacional afeta a eficiência de modelos de ML aplicados à detecção de malware
-- Projetos em mobile (Android/Kotlin, iOS/Swift), sistemas distribuídos e desenvolvimento web
-- Já passei por hackathons, maratonas de programação e monitorias — ensinar também me ajuda a aprender melhor
+- Projetos em Mobile (Android/Kotlin, iOS/Swift), Sistemas Distribuídos e Desenvolvimento Web
+- Já passei por hackathons, maratonas de programação e monitorias; Ensinar também me ajuda a aprender melhor!
+- Pesquisa de Iniciação Científica sobre como o Sistema Operacional afeta a eficiência de modelos de ML aplicados à detecção de Malware
 
 ###  Linguagens e Tecnologias
 
